@@ -172,6 +172,9 @@ input{
 .warning{
   color: red;
   text-align: center;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: .5rem;
 }
 .hide{
   display: none;
